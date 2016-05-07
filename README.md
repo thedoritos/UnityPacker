@@ -23,6 +23,10 @@ Assets/Plugins/iOS/UnityPacker
 - The paths can be either files or directories. 
 - The paths can not be patterns. (i.e. `*` will not behave like a wildcard)
 
-## Export Package
+## Export Packages
 
-UnityEditor Menu > Tools > Packer > Export Packages (Cmd + Shift + E)
+UnityEditor Menu > Tools > Packer > Export Packages (Cmd + E)
+
+## Export Sources
+
+UnityEditor Menu > Tools > Packer > Export Sources (Cmd + Shift + E)
