@@ -1,5 +1,5 @@
 # UnityPacker
-Export Unity package :rocket:
+Export Unity package :package:
 
 ## Install
 
@@ -17,11 +17,11 @@ Assets/UnityPacker/Editor/UnityPacker.pack
 Assets/Plugins/iOS/UnityPacker
 ```
 
-:memo: NOTE:
+### NOTE :memo:
 
 - The paths are relative paths from the project root.
 - The paths can be either files or directories. 
-- The paths can not be patterns. (i.e. `*` will not behave like an wildcard)
+- The paths can not be patterns. (i.e. `*` will not behave like a wildcard)
 
 ## Export Package
 
